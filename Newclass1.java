@@ -2,7 +2,7 @@
 /**
  * Write a description of class Newclass1 here.
  *
- * @author (your name)
+ * @author (Michael)
  * @version (a version number or a date)
  */
 public class Newclass1
